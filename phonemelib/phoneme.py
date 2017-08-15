@@ -1,5 +1,5 @@
 __author__ = 'Anton Melnikov'
-
+# -*- coding: utf-8 -*-
 
 from collections import Counter, OrderedDict
 from enum import Enum
